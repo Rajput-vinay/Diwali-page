@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.diwali-top-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.diwali-top-heading{
+    color: white;
+    font-family: Caveat; 
+    font-size: 36px;
+    width: 200;
+    padding: 20px;
+}
+
+.diwali-bottom-section{
+background-color: aquamarine;
+padding: 20px;
+text-align: center;
+
+
+}
+
+.diwali-card-section{
+background-color: white;
+width: 140px;
+margin: 20px;
+padding: 20px;
+text-align: center;
+border-radius: 15px;
+}
+
+
+.diwali-card-img{
+    height: 65px;
+    width: 65px;
+}
+
+.diwali-card-image-heading{
+    color: gray;
+    font-size: 12px;
+    font-weight: normal;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.diwali-card-item-price{
+    color: rgb(62, 58, 58);
+    font-size: 20px;
+    font-weight: 500px;
+}
